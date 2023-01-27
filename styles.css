@@ -1,13 +1,11 @@
-
-/* Your CSS Code here. */
-.hello-accio-job{
-	color: white;
-	margin-left:32px;
-	padding: 10px;
+main.Accio {
+  width: 150px;
+  height: 150px;
+  background-color: black;
 }
-.Accio{
-	width: 150px;
-	height: 150px;
-	background: black;
-	
+
+p.hello-accio-job {
+  color: white;
+  margin-left: 32px;
+  padding: 10px;
 }
